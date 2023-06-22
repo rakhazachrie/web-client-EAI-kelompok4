@@ -1,0 +1,10 @@
+.customSelect {
+    color: #FF1F57  !important;
+    background-color: white !important;
+    size: 100% !important;
+    font-weight: bold !important;
+}
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #FFAC42 !important;
+}
